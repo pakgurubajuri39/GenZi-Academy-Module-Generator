@@ -1,0 +1,6 @@
+{
+  "name": "GenZi Academy Module Generator",
+  "description": "Pedagogical tool for creating interactive and deep learning educational modules tailored to different student age groups",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
